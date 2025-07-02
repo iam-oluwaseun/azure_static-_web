@@ -1,2 +1,2 @@
-# azure_static-_web
+# azure_static_web
 Static website for Azure Storage hosting
